@@ -11,4 +11,5 @@ This little blinky example blinks the built-in LED (Arduino pin 13) connected to
 * Installation of `gcc-avr`
 * Installation of `avr-libc`
 * Installation of `avrdude`
+* Installation of `make`
 
